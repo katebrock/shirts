@@ -21,17 +21,12 @@
   width: 100%;
 
 }
-// .fa-repeat {
-//   color:#5CA4D7;
-//   border: 2px solid #5CA4D7;
-// }
-// .fa-repeat:hover {
-//   color: #fff;
-//   background-color: #5CA4D7;
 
-// }
+
+
   nav {
   width: 100%;
+  
 
 }
 nav::after{
@@ -56,6 +51,7 @@ a {
   font-size: 26px;
   float: left;
   position: relative;
+
 }
 
 a:last-child{
@@ -96,6 +92,7 @@ h2 {
   left: -2px;
   background-color: white;
   display: none;
+
 }
 a.color:hover{
 
@@ -131,8 +128,6 @@ a.color:hover{
   float: none;
 }
 .color3 {
-  // content:"";
-  // display:block;
   clear:both;
 }
 
@@ -155,6 +150,7 @@ a.color:hover{
   left: -2px;
   background-color: white;
   display: none;
+
 }
 .small{
   margin:0 auto;
